@@ -1,0 +1,14 @@
+.btn-search{
+  width: 500px;
+  /* border-radius: 15px; */
+  max-width: 80%;
+  background-color: white;
+  display: flex;
+}
+
+.container-btn-search{
+  display: flex;
+  justify-content: center;
+  padding: 3% 0;
+  border-bottom : 0.75px solid lightgrey;
+}

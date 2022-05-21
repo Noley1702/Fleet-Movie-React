@@ -1,0 +1,6 @@
+.container-navbar {
+    background-color: var(--dark-color) !important;
+}
+.title {
+    color: var(--primary-color);
+}
