@@ -6,7 +6,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 
 
-const MovieCard = ({ albums }, props) => {
+const MovieCard = ({ albums }) => {
 
   return (
     <div className='movies'>
